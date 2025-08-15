@@ -1,0 +1,16 @@
+{
+  "name": "mycvnodejs",
+  "version": "1.0.0",
+  "description": "CV landing page on Node.js (Express)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["cv", "resume", "landing", "express"],
+  "author": "Jonathan Gonzalez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
